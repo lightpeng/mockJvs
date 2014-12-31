@@ -3,7 +3,7 @@
   "version": "1.0.0",  
   "homepage": "https://github.com/lightpeng/mockJvs",  
   "description": "mock data",  
-  "main": "./dist/mock.js",  
+  "main": "dist/mock.js",  
   "license": "MIT",  
   "ignore": [  
     "**/.*",  
